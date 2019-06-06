@@ -1,0 +1,12 @@
+img {
+  height: 200px;
+
+}
+
+#dogs, #cats, #wildcats {
+  display: none;
+}
+
+#something {
+  float: right;
+}
